@@ -1,2 +1,2 @@
 # Project
-Full-stack app
+Full-stack app using MERN stack
